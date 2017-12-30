@@ -12,6 +12,7 @@ LoginInfo.cs
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
+LoginInfo.cs
 
 # Build results
 [Dd]ebug/
